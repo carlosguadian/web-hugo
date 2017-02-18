@@ -2,7 +2,7 @@
 
 ##Sitio hecho con Hugo
 
-> Este proyecto alberga los contenidos de httsp://carlosguadian.github.io
+> Este proyecto alberga los contenidos de https://carlosguadian.github.io
 
 ###Actualizaciones
 
