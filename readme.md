@@ -6,7 +6,7 @@
 
 ###Actualizaciones
 
-Ejecutar `./deploy.sh "Your optional commit message"` desde `web-hugo`
+Para actualizar la web tras modificarla hay que ejecutar `./deploy.sh "Your optional commit message"` desde `web-hugo` en la terminal.
 
 ##Recursos
 
